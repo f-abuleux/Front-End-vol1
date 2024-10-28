@@ -6,6 +6,7 @@ import Aboutme from './components/aboutme'
 import Contact from './components/contact'
 import "./style.css"
 import { motion,useScroll,useSpring } from "framer-motion";
+import Test from './components/testsvg'
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Content />
         <Aboutme />
         <Contact />
+        <Test />
       </div>
     </div>
   )

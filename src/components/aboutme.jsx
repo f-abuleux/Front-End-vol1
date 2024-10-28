@@ -32,7 +32,6 @@ function Aboutme() {
                 }}            
             >
                 Saya adalah seorang Motion Designer/3D Generalist lulus dibidang desain, menyemplung di dunia 3D sejak 2019 dan masuk kedalam ranah professional kurang lebih 1 tahun kebelakang. Saat ini sedang mendalami ilmu Full-Stack Web Development mempelajari fundamental, front-end serta back-end. Menggabungkan dunia design dan webdev/mobileapp merupakan sesuatu yang sangat saya suka terlebih jika hasil yang kita buat terlihat sangat immersive membuat satisfaction tersendiri dan akan ku taklukan dunia perkodingan ini dan akan menjadi tim pusat Purwadikhap, XIXIXIXI!
-
                 <p><code className="texteditor">
                     if(webdev + design === immersive) result = "Satisfaction"
                 </code></p>

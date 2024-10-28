@@ -6,7 +6,7 @@ function HomeSection() {
     return (
         <div className="mainhomesection">
             <div className='homesection' id="homepage">
-                <video loop autoPlay muted className="videobg" >
+                <video loop autoPlay muted className="videobg" controls={false} >
                     <source src="/Backgroundhome.mp4" type="video/mp4" />
                 </video>
                 <motion.div className='homename'
